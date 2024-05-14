@@ -1,0 +1,7 @@
+pandas
+seaborn
+sentence_transformers
+faiss-cpu
+gradio
+openai==0.28
+nltk
